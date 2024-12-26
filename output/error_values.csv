@@ -1,0 +1,2 @@
+MAPE,RMSE,MAE,Best Epoch,Total Training Time [s],Best Validation Loss (MAE)
+2.00 %,1.492,1.105,12856,34.61,3.6791
